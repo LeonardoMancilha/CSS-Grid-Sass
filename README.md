@@ -15,10 +15,9 @@
 
 ## 💻 Descrição do projeto / Description of the project
 
-<h2>Portuguese</h2> Este foi um projeto onde eu criei uma seção de página "atrevida" pelo Front-end Mentor desenvolvido para exercitar meus aprendizados em HTML e CSS.
- <br>
+<h2>Portuguese</h2> Este foi um projeto onde eu criei uma Solução de seção de recursos de quatro cartões pelo Front-end Mentor desenvolvido para exercitar meus aprendizados em HTML e CSS. <br>
 
-<h2>English</h2> This was a page where I created a Css-Grid-Sass by Front Mentor developed to exercise my learnings in HTML and CSS.
+<h2>English</h2> This was a project where I created a Four Card Resource Section Solution by Front-end Mentor developed to exercise my learnings in HTML and CSS.
 
 ## ⚙️ Funcionalidades / Functionalities
 - `Funcionalidade`: Informar ferramentas de uma empresa fictícia baseadas em Inteligência Artificial que usam milhões de pontos de dados do projeto para garantir que seu projeto seja bem-sucedido.
